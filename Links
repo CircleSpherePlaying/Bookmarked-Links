@@ -11,6 +11,8 @@ python3 -c 'import pty; pty.spawn("/bin/bash")'
 3) http://blog.pi3.com.pl/?p=780&s=09
 -CVE-2020-16898 AKA Bad Neighbor Vulnerability-
 
+4) https://unit42.paloaltonetworks.com/usbcreator-d-bus-privilege-escalation-in-ubuntu-desktop/
+-Privilege Escalation-
 
 *) https://www.offensive-security.com/offsec/meet-mihai-16-year-old-oscp-holder/
 *) https://blog.nviso.eu/2020/02/13/my-journey-reaching-1-spot-on-hack-the-box-belgium-10-tips-tricks-and-lessons-learned/
