@@ -1,0 +1,11 @@
+1) scp username@host:/path/to/remote /path/to/local
+"This will copy files from host machine to local machine"
+
+2) scp /path/to/local username@host:/path/to/remote
+"This will copy files from local machine to host machine"
+
+3) python3 -c 'import pty; pty.spawn("/bin/bash")'
+"This is give you shell"
+
+4) dirb http://hosturl/
+"This will scan url for common website directorys"
