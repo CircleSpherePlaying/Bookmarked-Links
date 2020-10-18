@@ -8,4 +8,10 @@
 "This is give you shell"
 
 4) dirb http://hosturl/
-"This will scan url for common website directorys"
+"This will scan url for common website directorys *SLOW*"
+
+5) sudo cp *name* /usr/local/bin/*name*
+"This will allow you to just type in the name instead of finding the directory"
+
+6) feroxbuster --insecure --url http://url/
+"This will scan url for common website directorys *FAST*"
