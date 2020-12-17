@@ -37,4 +37,6 @@ During a pentesting engagement, you will want to try to avoid detection from the
 
 On Debian and Ubuntu, the majority of these are left within the "/var/log directory and often require administrative privileges to read and modify. Some log files of interest:
 
-"/var/log/auth.log" (Attempted logins for SSH, changes too or logging in as system users:)```
+"/var/log/auth.log" (Attempted logins for SSH, changes too or logging in as system users:)
+"/var/log/syslog" (System events such as firewall alerts:)
+"/var/log/<service/"```
