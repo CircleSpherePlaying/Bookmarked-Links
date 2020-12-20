@@ -28,6 +28,12 @@
 10) https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources
 -Big ol' List-
 
+11) https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/
+-PowerShell File Search-
+
+12) https://www.winhelponline.com/blog/find-amount-words-lines-chars-text-file-powershell/#:~:text=Get%20the%20Line%2C%20Character%20and%20Word%20Count%20in,contains%2024%20lines%2C%20333%20words%20and%201839%20characters.
+-PowerShell Words File-
+
 *) https://www.offensive-security.com/offsec/meet-mihai-16-year-old-oscp-holder/
 *) https://blog.nviso.eu/2020/02/13/my-journey-reaching-1-spot-on-hack-the-box-belgium-10-tips-tricks-and-lessons-learned/
 
